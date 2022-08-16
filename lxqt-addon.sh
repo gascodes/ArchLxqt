@@ -38,6 +38,15 @@ bluez
 bluez-libs
 bluez-utils
 blueberry
+qt5-stylesplugin
+ksmoothdock
+make
+zsh-autosuggestions
+zsh-syntax-highlighting
+zsh-lovers
+gvfs
+gvfs-afc
+inter-font
 )
 
 count=0
