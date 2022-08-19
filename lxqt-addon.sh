@@ -47,6 +47,7 @@ zsh-lovers
 gvfs
 gvfs-afc
 inter-font
+catppuccin-gtk-theme
 )
 
 count=0
